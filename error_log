@@ -1,0 +1,1 @@
+[13-Aug-2025 15:22:56 UTC] PHP Fatal error:  Cannot redeclare class App\Http\Controllers\CompanyController (previously declared in D:\webserver\www\student\round63\farjana\Projects\Laravel\Courier\app\Http\Controllers\Api\CompanyController.php:9) in D:\webserver\www\student\round63\farjana\Projects\Laravel\Courier\app\Http\Controllers\Api\CompanyController.php on line 9
